@@ -1,0 +1,2890 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VMS GBF IT LmcUser OTP package\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-08 13:02+0100\n"
+"PO-Revision-Date: 2021-11-29 14:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: ../src\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Authentication/Adapter/OtpSms.php:167
+#, php-format
+msgid "Your otp code: %s"
+msgstr "Ihr Einmal-Code lautet: %s"
+
+#~ msgid "Settings edited"
+#~ msgstr "Einstellungen bearbeitet"
+
+#~ msgid "Password empty"
+#~ msgstr "Passwort leer"
+
+#~ msgid "Password invalid"
+#~ msgstr "Passwort ungültig"
+
+#~ msgid "Current and new password are identical"
+#~ msgstr "Aktuelles und neues Passwort ist identisch"
+
+#~ msgid "Lock expired"
+#~ msgstr "Sperre abgelaufen"
+
+#~ msgid "Location"
+#~ msgstr "Ort"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Lock date"
+#~ msgstr "Sperrdatum"
+
+#~ msgid "Timeout"
+#~ msgstr "Ablauf"
+
+#~ msgid "User"
+#~ msgstr "Benutzer"
+
+#~ msgid "Priority"
+#~ msgstr "Priorität"
+
+#~ msgid "Acknowledged"
+#~ msgstr "Akzeptiert"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "From"
+#~ msgstr "Von"
+
+#~ msgid "To"
+#~ msgstr "Bis"
+
+#~ msgid "Timestamp"
+#~ msgstr "Uhrzeit"
+
+#~ msgid "Message"
+#~ msgstr "Meldung"
+
+#~ msgid "ACK"
+#~ msgstr "ACK"
+
+#~ msgid "Acknowledge"
+#~ msgstr "Akzeptieren"
+
+#~ msgid "Entry not found"
+#~ msgstr "Eintrag nicht gefunden"
+
+#~ msgid "Acknowledge set"
+#~ msgstr "Akzeptiert"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Basic"
+#~ msgstr "Basis"
+
+#~ msgid "LDAP"
+#~ msgstr "LDAP"
+
+#~ msgid "Userroles"
+#~ msgstr "Benutzerrollen"
+
+#~ msgid "Houses"
+#~ msgstr "Häuser"
+
+#~ msgid "Role"
+#~ msgstr "Rolle"
+
+#~ msgid "LDAP group"
+#~ msgstr "LDAP Gruppe"
+
+#~ msgid "Parent"
+#~ msgstr "Übergeordnet"
+
+#~ msgid "Sorting"
+#~ msgstr "Sortierung"
+
+#~ msgid "House"
+#~ msgstr "Haus"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Basic role"
+#~ msgstr "Basisrolle"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "There is alreay an entry like this"
+#~ msgstr "Es gibt bereits so einen Eintrag"
+
+#, php-format
+#~ msgid "Entity is locked by %s"
+#~ msgstr "Eintrag ist gesperrt von %s"
+
+#~ msgid "Entry created"
+#~ msgstr "Eintrag erstellt"
+
+#~ msgid "Entry was not created"
+#~ msgstr "Eintrag wurde nicht erstellt"
+
+#~ msgid "Entry edited"
+#~ msgstr "Eintrag bearbeitet"
+
+#~ msgid "Entry was not edited"
+#~ msgstr "Eintrag wurde nicht bearbeitet"
+
+#~ msgid "Entry deleted"
+#~ msgstr "Eintrag gelöscht"
+
+#~ msgid "Entry was not deleted"
+#~ msgstr "Eintrag wurde nicht gelöscht"
+
+#~ msgid "Entry reactivated"
+#~ msgstr "Eintrag reaktiviert"
+
+#~ msgid "Entry was not deactivated"
+#~ msgstr "Eintrag wurde nicht deaktiviert"
+
+#~ msgid "Entry deactivated"
+#~ msgstr "Eintrag deaktiviert"
+
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+#~ msgid "Inactive"
+#~ msgstr "Inaktiv"
+
+#~ msgid "The form submitted did not originate from the expected site"
+#~ msgstr "Formular-Timeout"
+
+#~ msgid "Value is required and can't be empty"
+#~ msgstr "Dieses Feld darf nicht leer sein"
+
+#~ msgid "The input does not match against pattern '%pattern%'"
+#~ msgstr "Die Eingabe entspricht nicht dem erwarteten Format '%pattern%'"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "Sign off"
+#~ msgstr "Vidieren"
+
+#~ msgid "Reopen"
+#~ msgstr "Wiedereröffnen"
+
+#~ msgid "Change login password"
+#~ msgstr "Login Passwort ändern"
+
+#~ msgid "Current password"
+#~ msgstr "Aktuelles Passwort"
+
+#~ msgid "New password"
+#~ msgstr "Neues Passwort"
+
+#~ msgid "Verify password"
+#~ msgstr "Passwort wiederholen"
+
+#~ msgid "Username"
+#~ msgstr "Benutzername"
+
+#~ msgid "User roles"
+#~ msgstr "Benutzerrollen"
+
+#~ msgid "--- Please select ---"
+#~ msgstr "--- Bitte wählen ---"
+
+#~ msgid "close"
+#~ msgstr "schließen"
+
+#~ msgid "loading..."
+#~ msgstr "wird geladen..."
+
+#~ msgid "A 404 error occurred"
+#~ msgstr "Es trat ein 404 Fehler auf"
+
+#~ msgid "The requested controller was unable to dispatch the request."
+#~ msgstr "Der angeforderte Controller war nicht in der Lage die Anfrage zu verarbeiten."
+
+#~ msgid "The requested controller could not be mapped to an existing controller class."
+#~ msgstr "Der angeforderte Controller konnte keiner Controller Klasse zugeordnet werden."
+
+#~ msgid "The requested controller was not dispatchable."
+#~ msgstr "Der angeforderte Controller ist nicht aufrufbar."
+
+#~ msgid "The requested URL could not be matched by routing."
+#~ msgstr "Für die angeforderte URL konnte keine Übereinstimmung gefunden werden."
+
+#~ msgid "We cannot determine at this time why a 404 was generated."
+#~ msgstr "We cannot determine at this time why a 404 was generated."
+
+#~ msgid "Controller"
+#~ msgstr "Controller"
+
+#, php-format
+#~ msgid "resolves to %s"
+#~ msgstr "wird aufgelöst in %s"
+
+#~ msgid "Additional information"
+#~ msgstr "Zusätzliche Information"
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "Stack trace"
+#~ msgstr "Stack trace"
+
+#~ msgid "Previous exceptions"
+#~ msgstr "Vorherige Ausnahme"
+
+#~ msgid "No Exception available"
+#~ msgstr "Es ist keine Ausnahme verfügbar"
+
+#~ msgid "An error occurred"
+#~ msgstr "Ein Fehler ist aufgetreten"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Notifications"
+#~ msgstr "Benachrichtigungen"
+
+#~ msgid "Close"
+#~ msgstr "Schließen"
+
+#~ msgid "Please sign in"
+#~ msgstr "Bitte melden Sie sich an"
+
+#~ msgid "Signing in"
+#~ msgstr "Anmelden"
+
+#~ msgid "Sign in"
+#~ msgstr "Anmelden"
+
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgid "Click to select"
+#~ msgstr "Zum Auswählen klicken"
+
+#~ msgid "No results matched"
+#~ msgstr "Keine Ergebnisse für"
+
+#~ msgid "Create"
+#~ msgstr "Erstellen"
+
+#~ msgid "Delete entry"
+#~ msgstr "Eintrag löschen"
+
+#~ msgid "delete"
+#~ msgstr "löschen"
+
+#~ msgid "Deactivate entry"
+#~ msgstr "Eintrag deaktivieren"
+
+#~ msgid "deactivate"
+#~ msgstr "deaktivieren"
+
+#~ msgid "Reactivate entry"
+#~ msgstr "Eintrag reaktivieren"
+
+#~ msgid "reactivate"
+#~ msgstr "reaktivieren"
+
+#~ msgid "edit"
+#~ msgstr "bearbeiten"
+
+#~ msgid "Entry"
+#~ msgstr "Eintrag"
+
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+#~ msgid "Submit"
+#~ msgstr "Senden"
+
+#~ msgid "Cancelled"
+#~ msgstr "Abbrechen"
+
+#~ msgid "Deactivate"
+#~ msgstr "deaktivieren"
+
+#~ msgid "Reactivate"
+#~ msgstr "reaktivieren"
+
+#~ msgid "Disposition"
+#~ msgstr "Leitstelle"
+
+#~ msgid "Ward overview"
+#~ msgstr "Stationsübersicht"
+
+#~ msgid "Worklists"
+#~ msgstr "Arbeitsliste"
+
+#~ msgid "Administration"
+#~ msgstr "Administration"
+
+#~ msgid "Room"
+#~ msgstr "Zimmer"
+
+#~ msgid "Ward"
+#~ msgstr "Station"
+
+#~ msgid "Masterdata"
+#~ msgstr "Stammdaten"
+
+#~ msgid "Facility"
+#~ msgstr "Einrichtung"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Insurance"
+#~ msgstr "Versicherung"
+
+#~ msgid "Catalogs"
+#~ msgstr "Katalog"
+
+#~ msgid "Diagnose codes"
+#~ msgstr "Code"
+
+#~ msgid "Drugs"
+#~ msgstr "Medikamente"
+
+#~ msgid "Flags"
+#~ msgstr "Marker"
+
+#~ msgid "Case status"
+#~ msgstr "Fallstatus"
+
+#~ msgid "Case discharge reasons"
+#~ msgstr "Entlassungsgrund"
+
+#~ msgid "Risk types"
+#~ msgstr "Risikofaktoren"
+
+#~ msgid "Patient contact type"
+#~ msgstr "Kontakttyp"
+
+#~ msgid "Progress type"
+#~ msgstr "Dekurstyp"
+
+#~ msgid "Progress flag"
+#~ msgstr "Dekursmarker"
+
+#~ msgid "Progress template"
+#~ msgstr "Dekursvorlage"
+
+#~ msgid "Webpage"
+#~ msgstr "Webseite"
+
+#~ msgid "Users"
+#~ msgstr "Benutzer"
+
+#~ msgid "Roles"
+#~ msgstr "Rollen"
+
+#~ msgid "Log"
+#~ msgstr "Log"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Logout"
+#~ msgstr "Logout"
+
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Shortname"
+#~ msgstr "Kurzname"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Street"
+#~ msgstr "Straße"
+
+#~ msgid "ZIP"
+#~ msgstr "PLZ"
+
+#~ msgid "City"
+#~ msgstr "Ort"
+
+#~ msgid "Phone"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "State"
+#~ msgstr "Status"
+
+#~ msgid "Beds"
+#~ msgstr "Betten"
+
+#, fuzzy
+#~| msgid "Entry not found"
+#~ msgid "Stay not found"
+#~ msgstr "Eintrag nicht gefunden"
+
+#, fuzzy
+#~| msgid "Facility not assigned"
+#~ msgid "Stay not accessible"
+#~ msgstr "Betrieb nicht zugewiesen"
+
+#~ msgid "Facility not found"
+#~ msgstr "Betrieb nicht gefunden"
+
+#~ msgid "Facility not assigned"
+#~ msgstr "Betrieb nicht zugewiesen"
+
+#~ msgid "Facility changed"
+#~ msgstr "Betrieb geändert"
+
+#~ msgid "Lastname"
+#~ msgstr "Nachname"
+
+#~ msgid "Firstname"
+#~ msgstr "Vorname"
+
+#~ msgid "SSN"
+#~ msgstr "SVNR"
+
+#~ msgid "Patient not found"
+#~ msgstr "Patient nicht gefunden"
+
+#~ msgid "Checkoutdate"
+#~ msgstr "Abreisedatum"
+
+#~ msgid "Bed"
+#~ msgstr "Bett"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Diagnoses"
+#~ msgstr "Diagnosen"
+
+#~ msgid "Medication"
+#~ msgstr "Medikation"
+
+#, php-format
+#~ msgid "Row %d:"
+#~ msgstr "Zeile %d:"
+
+#, php-format
+#~ msgid "Column count does not match, %d vs %d"
+#~ msgstr "Spalten Anzahl passt nicht, %d vs %d"
+
+#, php-format
+#~ msgid "Import finished, %d rows imported"
+#~ msgstr "Import erfolgreich, %d Zeilen importiert"
+
+#~ msgid "Facilities"
+#~ msgstr "Einrichtungen"
+
+#~ msgid "Mo"
+#~ msgstr "Mo"
+
+#~ msgid "Tu"
+#~ msgstr "Di"
+
+#~ msgid "We"
+#~ msgstr "Mi"
+
+#~ msgid "Th"
+#~ msgstr "Do"
+
+#~ msgid "Fr"
+#~ msgstr "Fr"
+
+#~ msgid "Sa"
+#~ msgstr "Sa"
+
+#~ msgid "Su"
+#~ msgstr "So"
+
+#~ msgid "Main diagnose"
+#~ msgstr "Hauptdiagnose"
+
+#~ msgid "Side diagnose"
+#~ msgstr "Nebendiagnose"
+
+#~ msgid "Periodic"
+#~ msgstr "Regelmäßig"
+
+#~ msgid "Single case"
+#~ msgstr "Einzelfall"
+
+#~ msgid "Male"
+#~ msgstr "Männlich"
+
+#~ msgid "Female"
+#~ msgstr "Weiblich"
+
+#~ msgid "Undefined"
+#~ msgstr "Unbekannt"
+
+#~ msgid "Street Nr."
+#~ msgstr "Hausnr."
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid "Birthdate"
+#~ msgstr "Geburtsdatum"
+
+#~ msgid "Gender"
+#~ msgstr "Geschlecht"
+
+#, fuzzy
+#~ msgid "Checkin Date"
+#~ msgstr "Erstellen"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentar"
+
+#~ msgid "Data CSV file"
+#~ msgstr "Datendatei"
+
+#~ msgid "of"
+#~ msgstr "von"
+
+#~ msgid "Properties"
+#~ msgstr "Eigenschaften"
+
+#, fuzzy
+#~| msgid "Outpatient"
+#~ msgid "Plan Patient"
+#~ msgstr "Ambulant"
+
+#, fuzzy
+#~| msgid "Ward overview"
+#~ msgid "View Facility Overview"
+#~ msgstr "Stationsübersicht"
+
+#, fuzzy
+#~| msgid "Ward overview"
+#~ msgid "View Ward Overview"
+#~ msgstr "Stationsübersicht"
+
+#, fuzzy
+#~| msgid "Patient group"
+#~ msgid "Patient Record"
+#~ msgstr "Patientengruppe"
+
+#, fuzzy
+#~| msgid "Progress type"
+#~ msgid "Progress"
+#~ msgstr "Dekurstyp"
+
+#, fuzzy
+#~| msgid "Flags"
+#~ msgid "Flag"
+#~ msgstr "Marker"
+
+#, fuzzy
+#~ msgid "Date Saved"
+#~ msgstr "Schließen"
+
+#, fuzzy
+#~| msgid "Document"
+#~ msgid "Date Documented"
+#~ msgstr "Dokument"
+
+#, fuzzy
+#~| msgid "Companycode %s not found"
+#~ msgid "No progress notes found"
+#~ msgstr "Buchungskreis %s nicht gefunden"
+
+#~ msgid "Worklist"
+#~ msgstr "Arbeitsliste"
+
+#, fuzzy
+#~| msgid "Outpatient"
+#~ msgid "Patient trend"
+#~ msgstr "Ambulant"
+
+#~ msgid "Drug"
+#~ msgstr "Medikament"
+
+#~ msgid "Amount"
+#~ msgstr "Anzahl"
+
+#~ msgid "Unit"
+#~ msgstr "Einheit"
+
+#~ msgid "Bed CSV format"
+#~ msgstr "Betten CSV-Datenformat"
+
+#~ msgid "Diagnose CSV format"
+#~ msgstr "Diagnosen CSV-Datenformat"
+
+#~ msgid "Medication CSV format"
+#~ msgstr "Medikation CSV-Datenformat"
+
+#~ msgid "Planned cases"
+#~ msgstr "Geplante Fälle"
+
+#~ msgid "Todays medication"
+#~ msgstr "Heutige Medikation"
+
+#~ msgid "Planned discharge"
+#~ msgstr "Geplante Entlassung"
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "Patient"
+#~ msgstr "Patient"
+
+#~ msgid "Planned checkin"
+#~ msgstr "Geplante Anreise"
+
+#~ msgid "No planned cases"
+#~ msgstr "Keine geplanten Fälle"
+
+#~ msgid "Sober"
+#~ msgstr "Nüchtern"
+
+#~ msgid "Morning"
+#~ msgstr "Morgen"
+
+#~ msgid "Lunch"
+#~ msgstr "Mittag"
+
+#~ msgid "Dinner"
+#~ msgstr "Abend"
+
+#~ msgid "Night"
+#~ msgstr "Nacht"
+
+#, php-format
+#~ msgid "Only on: %s"
+#~ msgstr "Nur am: %s"
+
+#, php-format
+#~ msgid "All %d days"
+#~ msgstr "Alle %d Tage"
+
+#, php-format
+#~ msgid "Max. %d daily / min. interval %dh"
+#~ msgstr "Max. %d täglich / min. Abstand %dh"
+
+#~ msgid "Planned checkout"
+#~ msgstr "Geplante Abreise"
+
+#~ msgid "No planned or outstanding discharges"
+#~ msgstr "Keine geplanten oder überfälligen Entlassungen"
+
+#~ msgid "COVID19 KIS"
+#~ msgstr "COVID19 KIS"
+
+#~ msgid "No results match"
+#~ msgstr "Keine Ergebnisse für"
+
+#~ msgid "Select Some Options"
+#~ msgstr "Wählen Sie einige Optionen"
+
+#~ msgid "Select an Option"
+#~ msgstr "Wählen Sie eine Option"
+
+#~ msgid "GBF IT - KIS"
+#~ msgstr "GBF IT - KIS"
+
+#~ msgid "Form"
+#~ msgstr "Formular"
+
+#~ msgid "Group"
+#~ msgstr "Gruppe"
+
+#~ msgid "Overview"
+#~ msgstr "&Uuml;bersicht"
+
+#~ msgid "Open entries"
+#~ msgstr "Offene Eintr&auml;ge"
+
+#~ msgid "Finance house"
+#~ msgstr "Finanzkennzahlen Haus"
+
+#~ msgid "Finance facility"
+#~ msgstr "Finanzkennzahlen Teilbetrieb"
+
+#~ msgid "Costunit"
+#~ msgstr "Kostenträger"
+
+#~ msgid "Staff"
+#~ msgstr "Personal"
+
+#~ msgid "von"
+#~ msgstr "of"
+
+#~ msgid "Room:"
+#~ msgstr "Zimmer:"
+
+#~ msgid "Movements faculty"
+#~ msgstr "Leistungskennzahlen Fachbereich"
+
+#~ msgid "Costunit house"
+#~ msgstr "Kostenträger Haus"
+
+#~ msgid "Staff facility"
+#~ msgstr "Personal Teilbetrieb"
+
+#~ msgid "Input"
+#~ msgstr "Eingabe"
+
+#~ msgid "Finance costunit"
+#~ msgstr "Finanzkennzahlen Kostenträger"
+
+#~ msgid "Daily rate"
+#~ msgstr "Tagsatz"
+
+#~ msgid "Finance entry schedule"
+#~ msgstr "Finanzeintrag Planung"
+
+#~ msgid "Staff category"
+#~ msgstr "Personalkategorie"
+
+#~ msgid "Staff group"
+#~ msgstr "Personalgruppe"
+
+#~ msgid "Phases"
+#~ msgstr "Phase"
+
+#~ msgid "Institution type"
+#~ msgstr "Art Einrichtung"
+
+#~ msgid "Planning"
+#~ msgstr "Planung"
+
+#~ msgid "Phase"
+#~ msgstr "Phase"
+
+#~ msgid "Faculty"
+#~ msgstr "Fachbereich"
+
+#~ msgid "Country state"
+#~ msgstr "Bundesland"
+
+#~ msgid "Region"
+#~ msgstr "Region"
+
+#~ msgid "Form groups"
+#~ msgstr "Formulargruppe"
+
+#~ msgid "There is alreay a daily rate for this patient group, planning and valid from date"
+#~ msgstr "Es gibt bereits einen Tagsatz für diese Patientengruppe, Planung und Gültig von-Datum"
+
+#~ msgid "Rate"
+#~ msgstr "Rate"
+
+#~ msgid "Valid from"
+#~ msgstr "Gültig von"
+
+#~ msgid "Valid to"
+#~ msgstr "Gültig bis"
+
+#~ msgid "Open"
+#~ msgstr "Offen"
+
+#~ msgid "Year"
+#~ msgstr "Jahr"
+
+#~ msgid "Medium"
+#~ msgstr "Mittel"
+
+#~ msgid "Institution"
+#~ msgstr "Einrichtung"
+
+#~ msgid "Level of care"
+#~ msgstr "Versorgungsstufe"
+
+#~ msgid "Floor area gross"
+#~ msgstr "Brutto Geschossfl&auml;che"
+
+#~ msgid "Floor area net"
+#~ msgstr "Netto Geschossfl&auml;che"
+
+#~ msgid "Provisioned beds"
+#~ msgstr "Betten systemisiert"
+
+#~ msgid "Beds real"
+#~ msgstr "Betten tatsächlich"
+
+#~ msgid "Beds companion"
+#~ msgstr "Betten Begleitperson"
+
+#~ msgid "There is already an entry for this house, planning and and type"
+#~ msgstr "Es gibt bereits einen Eintrag für dieses Haus, Planung und Typ"
+
+#~ msgid "Day"
+#~ msgstr "Tag"
+
+#~ msgid "Month"
+#~ msgstr "Monat"
+
+#~ msgid "Target month"
+#~ msgstr "Zielmonat"
+
+#~ msgid "This company code is already in use"
+#~ msgstr "Dieser Buchungscode ist bereits in Verwendung"
+
+#~ msgid "Short"
+#~ msgstr "Kurz"
+
+#~ msgid "Company code"
+#~ msgstr "Buchungskreis"
+
+#~ msgid "Nonprofit"
+#~ msgstr "Gemeinnützig"
+
+#~ msgid "Consolidated"
+#~ msgstr "Konsolidiert"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Movements only"
+#~ msgstr "Nur bei Leistungskennzahlen"
+
+#, php-format
+#~ msgid "Costunit %s not found"
+#~ msgstr "Kostenträger %s nicht gefunden"
+
+#~ msgid "Entry for this costunit, planning, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit dem gleichen Kostenträger, Planung, Jahr und Monat"
+
+#~ msgid "Entry for this house, planning, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit dem gleichen Haus, Planung, Jahr und Monat"
+
+#~ msgid "No matching movement entry found"
+#~ msgstr "Keine passenden Bewegungsdaten gefunden"
+
+#~ msgid "Entry for this facility, planning, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit dem gleichen Teilbetrieb, Jahr und Monat"
+
+#~ msgid "Entry for this faculty, planning, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit dem gleichen Fachbereich, Planung, Jahr und Monat"
+
+#~ msgid "Unlock"
+#~ msgstr "Entsperren"
+
+#~ msgid "no"
+#~ msgstr "Nein"
+
+#~ msgid "Count daycare"
+#~ msgstr "Anzahl tagesstationär"
+
+#~ msgid "Count outp."
+#~ msgstr "Anzahl amb."
+
+#~ msgid "Insurance defaults"
+#~ msgstr "Versicherung Standards"
+
+#~ msgid "Day of month of entry creation"
+#~ msgstr "Tag des Monats für die Erstellung"
+
+#~ msgid "Valid for one specific month"
+#~ msgstr "Gültig für ein bestimmtes Monat"
+
+#~ msgid "Months in past or future"
+#~ msgstr "Monate in der Vergangenheit oder Zukunft"
+
+#~ msgid "Stand EK"
+#~ msgstr "Stand EK"
+
+#~ msgid "Beds necessary"
+#~ msgstr "Betten notwendig"
+
+#~ msgid "KTR CSV file"
+#~ msgstr "Kostenträger Datei"
+
+#~ msgid "FTE m"
+#~ msgstr "VZÄ m"
+
+#~ msgid "FTE f"
+#~ msgstr "VZÄ w"
+
+#~ msgid "HC m"
+#~ msgstr "HC m"
+
+#~ msgid "HC f"
+#~ msgstr "HC w"
+
+#~ msgid "Please choose a costunit first"
+#~ msgstr "Bitte w&auml;hlen Sie zuerst einen Kostenträger aus"
+
+#~ msgid "Sales"
+#~ msgstr "Umsatzerlöse"
+
+#~ msgid "Net sales"
+#~ msgstr "Net Sales"
+
+#~ msgid "Please choose a facility first"
+#~ msgstr "Bitte wählen Sie zuerst einen Betrieb aus"
+
+#~ msgid "Other income"
+#~ msgstr "Sonstige betriebliche Erträge"
+
+#~ msgid "Material expenses"
+#~ msgstr "Aufwand für Material und bezogene Leistungen"
+
+#~ msgid "Staff expenses"
+#~ msgstr "Personalaufwand"
+
+#~ msgid "Operational expenses"
+#~ msgstr "Sonstige betriebliche Aufwendungen"
+
+#~ msgid "Lease"
+#~ msgstr "Miete/Pacht"
+
+#~ msgid "Deduction"
+#~ msgstr "Abschreibungen"
+
+#~ msgid "Mgmt fee fixed"
+#~ msgstr "Fixe Managementfee"
+
+#~ msgid "Mgmt fee from sales"
+#~ msgstr "Variable Mgmtfee vom Umsatz"
+
+#~ msgid "Mgmt fee from EBIT"
+#~ msgstr "Variable Mgmtfee vom EBIT"
+
+#~ msgid "Other mgmt fee"
+#~ msgstr "Sonstige variable Managementfee"
+
+#~ msgid "EBIT"
+#~ msgstr "EBIT"
+
+#~ msgid "Financial result"
+#~ msgstr "Finanzergebnis"
+
+#~ msgid "EBT"
+#~ msgstr "EBT"
+
+#~ msgid "Taxes on income and earnings"
+#~ msgstr "Steuern vom Einkommen und Ertrag"
+
+#~ msgid "Head count"
+#~ msgstr "Headcount"
+
+#~ msgid "FTE"
+#~ msgstr "VZÄ"
+
+#~ msgid "Please choose a house first"
+#~ msgstr "Bitte wählen Sie zuerst ein Haus aus"
+
+#~ msgid "Revaluation EBITDAR"
+#~ msgstr "Umwertung EBITDAR"
+
+#~ msgid "Revaluation EBIT"
+#~ msgstr "Umwertung EBIT"
+
+#~ msgid "Revaluation EBT"
+#~ msgstr "Umwertung EBT"
+
+#~ msgid "Revaluation EBIT without IFRS 16"
+#~ msgstr "Umwertung EBIT ohne IFRS 16"
+
+#~ msgid "Revaluation EBT without IFRS 16"
+#~ msgstr "Umwertung EBT ohne IFRS 16"
+
+#~ msgid "CAPEX"
+#~ msgstr "CAPEX"
+
+#~ msgid "VVW sales"
+#~ msgstr "VVW Umsatz"
+
+#~ msgid "VVW cards"
+#~ msgstr "VVW Karten"
+
+#~ msgid "Please choose a faculty first"
+#~ msgstr "Bitte w&auml;hlen Sie zuerst einen Teilbetrieb aus"
+
+#~ msgid "Beds insurance"
+#~ msgstr "Betten Kostenträger"
+
+#~ msgid "Count treatment places outpatient"
+#~ msgstr "Anzahl Behandlungplätze ambulant"
+
+#~ msgid "Count treatment places daycare"
+#~ msgstr "Anzahl Behandlungplätze tagesstationär"
+
+#~ msgid "Patient groups"
+#~ msgstr "Patientengruppen"
+
+#~ msgid "Caredays level 0"
+#~ msgstr "Pflegetage Stufe 0"
+
+#~ msgid "Caredays level 1"
+#~ msgstr "Pflegetage Stufe 1"
+
+#~ msgid "Caredays level 2"
+#~ msgstr "Pflegetage Stufe 2"
+
+#~ msgid "Caredays level 3"
+#~ msgstr "Pflegetage Stufe 3"
+
+#~ msgid "Caredays level 4"
+#~ msgstr "Pflegetage Stufe 4"
+
+#~ msgid "Caredays level 5"
+#~ msgstr "Pflegetage Stufe 5"
+
+#~ msgid "Caredays level 6"
+#~ msgstr "Pflegetage Stufe 6"
+
+#~ msgid "Caredays level 7"
+#~ msgstr "Pflegetage Stufe 7"
+
+#~ msgid "Caredays normal"
+#~ msgstr "Normalpflegetage"
+
+#~ msgid "Caredays shortterm"
+#~ msgstr "Kurzzeitpflegetage"
+
+#~ msgid "Holidays"
+#~ msgstr "Urlaubstage"
+
+#~ msgid "Hospitaldays"
+#~ msgstr "Krankenhaustage"
+
+#~ msgid "Care days"
+#~ msgstr "Pflegetage"
+
+#~ msgid "Covering days"
+#~ msgstr "Belagstage"
+
+#~ msgid "Patient admission"
+#~ msgstr "Patientenaufnahmen"
+
+#~ msgid "Treatmentdays (KTR)"
+#~ msgstr "Behandlungstage (Kostenträger)"
+
+#~ msgid "Treatmentdays (private)"
+#~ msgstr "Behandlungstage (Privat)"
+
+#~ msgid "Frequency"
+#~ msgstr "Frequenz"
+
+#~ msgid "Frequency insurance"
+#~ msgstr "Frequenz Versicherungen"
+
+#~ msgid "Count therapy (KTR)"
+#~ msgstr "Therapieanzahl (Kostenträger)"
+
+#~ msgid "Count therapy (private)"
+#~ msgstr "Therapieanzahl (Privat)"
+
+#~ msgid "Therapydays count"
+#~ msgstr "Anzahl Therapietage"
+
+#~ msgid "Covering days level C+"
+#~ msgstr "Belagstage Stufe C+"
+
+#~ msgid "Covering days level C"
+#~ msgstr "Belagstage Stufe C"
+
+#~ msgid "Covering days level D"
+#~ msgstr "Belagstage Stufe D"
+
+#~ msgid "Patientadmission count"
+#~ msgstr "Patientenaufnahmen"
+
+#~ msgid "Therapyminutes single"
+#~ msgstr "Einzeltherapieminuten"
+
+#~ msgid "Therapyminutes group"
+#~ msgstr "Gruppentherapieminuten"
+
+#~ msgid "Therapycount single"
+#~ msgstr "Einzeltherapieanzahl"
+
+#~ msgid "Therapycount group"
+#~ msgstr "Gruppentherapieanzahl"
+
+#~ msgid "Produced bkt"
+#~ msgstr "Produzierte BKT"
+
+#~ msgid "Produced lunchmenu"
+#~ msgstr "Produzierte Mittagsmenüs"
+
+#~ msgid "LKF score"
+#~ msgstr "LKF Punkte"
+
+#~ msgid "LKF score value"
+#~ msgstr "LKF Punktewert"
+
+#~ msgid "PRIKRAF score"
+#~ msgstr "PRIKRAF Punkte"
+
+#~ msgid "PRIKRAF score value"
+#~ msgstr "PRIKRAF Punktewert"
+
+#~ msgid "Count surgery"
+#~ msgstr "Anzahl Operationen"
+
+#~ msgid "Count therapydays (common class)"
+#~ msgstr "Anzahl Therapietage (Allgemeine Klasse)"
+
+#~ msgid "Count therapydays (special class)"
+#~ msgstr "Anzahl Therapietage (Sonderklasse)"
+
+#~ msgid "One line per costunit, year and month"
+#~ msgstr "Eine Zeile pro Kostenträger, Jahr und Monat"
+
+#~ msgid "Number;Year;Month;Sales;DBII"
+#~ msgstr "Nummer;Jahr;Monat;Sales;DBII"
+
+#~ msgid "One line per year and month"
+#~ msgstr "Eine Zeile pro Jahr und Monat"
+
+#~ msgid "Year;Month;Sales;Net sales;Mgmt fee fix;Mgmt fee from sales;Mgmt fee from EBIT;Materialaufwand;Personalaufwand;Sonst. Aufwand;Abschreibungen;Pacht;Steuern vom Einkommen und Ertrag;Finanzergebnis;Bruttofläche;Nettofläche;HC;VZÄ"
+#~ msgstr "Jahr;Monat;Umsatz;Net sales;MGMT fee fix;MGMT fee vom Umsatz;MGMT fee vom EBIT;Materialaufwand;Personalaufwand;Sonst. betriebl. Aufwand;Abschreibungen;Pacht;Steuern vom Eink. u Ertrag;Finanzergebnis;Brutto Geschossfl.;Netto Geschossfl.;Headcount;VZÄ"
+
+#~ msgid "Companycode;Year;Month;Consolidated;EBITDAR;EBIT;EBT;EBIT w/o IFRS16;EBT w/o IFRS16;KTR sales;KTR DBII;KTR number; KTR type;CAPEX;EK;VVW sales;VVW cards"
+#~ msgstr "Buchungskreis;Jahr;Monat;Konsolidiert;EBITDAR;EBIT;EBT;EBIT ohne IFRS16;EBT ohne IFRS16;KTR Sales;KTR DBII;KTR Nummer;KTR Typ;CAPEX;Stand EK;VVW Umsatz;VVW Karten"
+
+#~ msgid "Year;Month;Beds;Beds real;Beds companion;Count outpatient;Count daycare"
+#~ msgstr "Jahr;Monat;System. Betten;Betten tatsächlich;Betten BP;Anz. Behandlungspl. ambulant;Anz. Behandlungspl. tagesstationär"
+
+#~ msgid "One line per year, month and KTR"
+#~ msgstr "Eine Zeile pro Jahr, Monat und KTR"
+
+#~ msgid "Year;Month;KTR ID;Beds"
+#~ msgstr "Jahr;Monat;KTR ID;Betten"
+
+#~ msgid "Entry for this facility, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit dem gleichen Teilbetrieb, Jahr und Monat"
+
+#~ msgid "DBII"
+#~ msgstr "DBII"
+
+#~ msgid "Sales NET"
+#~ msgstr "Nettoumsatz"
+
+#~ msgid "Expenses material"
+#~ msgstr "Aufwendungen Material"
+
+#~ msgid "Expenses staff"
+#~ msgstr "Aufwendungen Personal"
+
+#~ msgid "Expenses operational"
+#~ msgstr "Betrieblicher Aufwand"
+
+#~ msgid "Revaluation EBITDA"
+#~ msgstr "Umwertung EBITDA"
+
+#, php-format
+#~ msgid "Beds %s"
+#~ msgstr "Betten %s"
+
+#~ msgid "Count outpatient"
+#~ msgstr "Anzahl ambulant"
+
+#~ msgid "Care"
+#~ msgstr "Pflege"
+
+#~ msgid "Places daycare"
+#~ msgstr "Plätze Tagesstationär"
+
+#~ msgid "Caredays phase"
+#~ msgstr "Pflegetage Phase"
+
+#~ msgid "Caredays social"
+#~ msgstr "Pflegetage Sozial"
+
+#~ msgid "Caredays private"
+#~ msgstr "Pflegetage Privat"
+
+#~ msgid "Guests dayscare"
+#~ msgstr "G&auml;ste tagesstation&auml;r"
+
+#~ msgid "Count caredays"
+#~ msgstr "Anzahl Behandlungstage"
+
+#~ msgid "Urgent"
+#~ msgstr "Akut"
+
+#, php-format
+#~ msgid "Care days %s"
+#~ msgstr "Pflegetage %s"
+
+#~ msgid "Covering days foreign"
+#~ msgstr "Belagstage Ausland"
+
+#~ msgid "Patientadmission count foreign"
+#~ msgstr "Patientenaufnahmen ausländische Kostenträger"
+
+#~ msgid "Frequency outpatient"
+#~ msgstr "Frequenz ambulant"
+
+#~ msgid "Frequency inpatient"
+#~ msgstr "Frequenz station&auml;r"
+
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgid "Produced BKT"
+#~ msgstr "Produzierte BKT"
+
+#, php-format
+#~ msgid "Frequency %s"
+#~ msgstr "Frequenz %s"
+
+#, php-format
+#~ msgid "Patient count %s"
+#~ msgstr "Patientenzahl %s"
+
+#~ msgid "Daycare"
+#~ msgstr "Tagesstationär"
+
+#~ msgid "Treatment days (KTR)"
+#~ msgstr "Behandlungstage (KTR)"
+
+#~ msgid "Treatment days (private)"
+#~ msgstr "Behandlungstage (Privat)"
+
+#~ msgid "Rehab"
+#~ msgstr "Reha"
+
+#, php-format
+#~ msgid "Covering days %s"
+#~ msgstr "Belagstage %s"
+
+#, php-format
+#~ msgid "Pat. adm. count %s"
+#~ msgstr "Patientenaufnahme %s"
+
+#~ msgid "Minutes therapy single"
+#~ msgstr "Therapieminuten Einzel"
+
+#~ msgid "Minutes therapy group"
+#~ msgstr "Therapieminuten Gruppe"
+
+#~ msgid "Therapy single"
+#~ msgstr "Einzeltherapie"
+
+#~ msgid "Therapy group"
+#~ msgstr "Gruppentherapie"
+
+#~ msgid "Therapy days"
+#~ msgstr "Therapietage"
+
+#~ msgid "Treatmentdays outpatient"
+#~ msgstr "Behandlungstage ambulant"
+
+#~ msgid "Therapy ktr outpatient"
+#~ msgstr "Therapien ambulant (KTR)"
+
+#~ msgid "Therapy private outpatient"
+#~ msgstr "Therapien ambulant (Privat)"
+
+#~ msgid "Treatmentdays ktr daycare"
+#~ msgstr "Behandlungstage tagesstation&auml;r (KTR)"
+
+#~ msgid "Treatmentdays private daycare"
+#~ msgstr "Behandlungstage tagesstation&auml;r (Privat)"
+
+#~ msgid "Frequency daycare"
+#~ msgstr "Frequenz tagesstation&auml;r"
+
+#~ msgid "Companion"
+#~ msgstr "Begleitperson"
+
+#~ msgid "GBF IT Finance-Database"
+#~ msgstr "GBF IT Finanz-Datenbank"
+
+#~ msgid "filter"
+#~ msgstr "Filter"
+
+#, fuzzy
+#~| msgid "Movements only"
+#~ msgid "Movement faculty"
+#~ msgstr "Nur bei Leistungskennzahlen"
+
+#~ msgid "Movement"
+#~ msgstr "Leistungskennzahlen"
+
+#, fuzzy
+#~| msgid "Net sales"
+#~ msgid "Mgmt fee sales"
+#~ msgstr "Net Sales"
+
+#~ msgid "KTR #"
+#~ msgstr "Kostenträger #"
+
+#~ msgid "Treatment places"
+#~ msgstr "Behandlungspl&auml;tze"
+
+#~ msgid "KTR sales"
+#~ msgstr "KTR Sales"
+
+#~ msgid "KTR number"
+#~ msgstr "KTR Nummer"
+
+#~ msgid "Result"
+#~ msgstr "Finanzergebnis"
+
+#~ msgid "CSV file"
+#~ msgstr "CSV Datei"
+
+#~ msgid "EBITDA"
+#~ msgstr "EBITDA"
+
+#~ msgid "EBITDAR"
+#~ msgstr "EBITDAR"
+
+#, fuzzy
+#~| msgid "Unlock"
+#~ msgid "locked"
+#~ msgstr "Entsperren"
+
+#~ msgid "Beds under contract"
+#~ msgstr "Betten unter Vertrag"
+
+#~ msgid "Count inpatient"
+#~ msgstr "Anzahl stationär"
+
+#~ msgid "Guests daycare"
+#~ msgstr "Gäste Tagesstationär"
+
+#~ msgid "treatment places"
+#~ msgstr "Behandlungsplätze"
+
+#~ msgid "Count frequency outpatient"
+#~ msgstr "Anzahl Frequenz ambulant"
+
+#~ msgid "Count frequency inpatient"
+#~ msgstr "Anzahl Frequenz stationär"
+
+#~ msgid "Performance"
+#~ msgstr "Leistungskennzahlen"
+
+#~ msgid "Performance care"
+#~ msgstr "Leistungskennzahlen Pflege"
+
+#~ msgid "Performance daycare"
+#~ msgstr "Leistungskennzahlen Tagesstationär"
+
+#~ msgid "Performance outpatient"
+#~ msgstr "Leistungskennzahlen Ambulant"
+
+#~ msgid "Performance service"
+#~ msgstr "Leistungskennzahlen Service"
+
+#~ msgid "Performance urgent"
+#~ msgstr "Leistungskennzahlen Akut"
+
+#~ msgid "Entry for this phase, planning, year and month does already exist"
+#~ msgstr "Es existiert bereits ein Eintrag mit der gleichen Phase, Planung, Jahr und Monat"
+
+#~ msgid "Treamtent places"
+#~ msgstr "Behandlungsplätze"
+
+#~ msgid "Please choose a phase first"
+#~ msgstr "Bitte w&auml;hlen Sie zuerst eine Phase aus"
+
+#~ msgid "Count day."
+#~ msgstr "Anzahl tagesst."
+
+#~ msgid "Count inp."
+#~ msgstr "Anzahl stat."
+
+#~ msgid "LDAP Group"
+#~ msgstr "LDAP Gruppe"
+
+#~ msgid "Beds SVA"
+#~ msgstr "Betten SVA"
+
+#~ msgid "Beds PVA"
+#~ msgstr "Betten PVA"
+
+#~ msgid "Beds BVA"
+#~ msgstr "Betten BVA"
+
+#~ msgid "Beds XY"
+#~ msgstr "Betten XY"
+
+#~ msgid "User not found"
+#~ msgstr "Benutzer nicht gefunden"
+
+#~ msgid "Givenname"
+#~ msgstr "Vorname"
+
+#~ msgid "Hello%s"
+#~ msgstr "Hallo%s"
+
+#~ msgid "Your password was successfully changed"
+#~ msgstr "Ihr Passwort wurde erfolgreich ge&auml;ndert"
+
+#~ msgid "Password"
+#~ msgstr "Passwort"
+
+#~ msgid "To change your password please follow this link: <a href=\"%s\">%s</a><br>This link is valid for 24 hours."
+#~ msgstr "Bitte verwenden Sie den folgenden Link um Ihr Passwort zu &auml;ndern: <a href=\"%s\">%s</a><br>Dieser Link ist 24h g&uuml;ltig."
+
+#~ msgid "Forgot password"
+#~ msgstr "GBF IT Finanz-Datenbank - Passwort vergessen"
+
+#~ msgid "A mail with further instructions to change your password was sent to you"
+#~ msgstr "Eine eMail mit weiteren Informationen wurde Ihnen zugesandt"
+
+#~ msgid "Password successfully changed"
+#~ msgstr "Passwort erfolgreich geändert"
+
+#~ msgid "Link invalid"
+#~ msgstr "Link ungültig"
+
+#~ msgid "Activate user"
+#~ msgstr "Benutzer aktivieren"
+
+#~ msgid "Go to login"
+#~ msgstr "Zum Login"
+
+#~ msgid "Password forgotten"
+#~ msgstr "Passwort vergessen"
+
+#~ msgid "GBF IT Finance-Database - Forgot password"
+#~ msgstr "GBF IT Finanz-Datenbank - Passwort vergessen"
+
+#~ msgid "Hardware"
+#~ msgstr "Hardware"
+
+#~ msgid "Exercise"
+#~ msgstr "Übung"
+
+#~ msgid "Base exercise"
+#~ msgstr "Grundübung"
+
+#~ msgid "Device"
+#~ msgstr "Gerät"
+
+#~ msgid "Muscle"
+#~ msgstr "Muskel"
+
+#~ msgid "Musclegroup"
+#~ msgstr "Muskelgruppe"
+
+#~ msgid "Muscle sling"
+#~ msgstr "Muskelschlinge"
+
+#~ msgid "OAuth"
+#~ msgstr "OAuth"
+
+#~ msgid "Clients"
+#~ msgstr "Clients"
+
+#~ msgid "Scopes"
+#~ msgstr "Scopes"
+
+#~ msgid "Backend"
+#~ msgstr "Backend"
+
+#~ msgid "Maintenance"
+#~ msgstr "Wartung"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Agonists"
+#~ msgstr "Agonisten"
+
+#~ msgid "Antagonists"
+#~ msgstr "Antagonisten"
+
+#~ msgid "Muscle slings"
+#~ msgstr "Muskelschlingen"
+
+#~ msgid "Departure"
+#~ msgstr "Ansatz"
+
+#~ msgid "Origin"
+#~ msgstr "Ursprung"
+
+#~ msgid "A new password was generated and sent to you by mail"
+#~ msgstr "Ein neues Passwort wurde erstellt und per Mail an Sie gesendet"
+
+#~ msgid "Unknown error"
+#~ msgstr "Unbekannter Fehler"
+
+#~ msgid "Settings were not edited"
+#~ msgstr "Einstellungen wurden nicht bearbeitet"
+
+#~ msgid "State edited"
+#~ msgstr "Status bearbeitet"
+
+#~ msgid "State was not edited"
+#~ msgstr "Status wurde nicht bearbeitet"
+
+#~ msgid "Client Id"
+#~ msgstr "Client ID"
+
+#~ msgid "Redirect URI"
+#~ msgstr "Weiterleitungs URI"
+
+#~ msgid "Scope"
+#~ msgstr "Scope"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Stabilisators"
+#~ msgstr "Stabilisator"
+
+#~ msgid "Synergists"
+#~ msgstr "Synergist"
+
+#~ msgid "Mail notification"
+#~ msgstr "Mail-Benachrichtigung"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Client ID"
+#~ msgstr "Client ID"
+
+#~ msgid "Grant type"
+#~ msgstr "Grant Typ"
+
+#~ msgid "New secret"
+#~ msgstr "Neues Geheimnis"
+
+#~ msgid "Verify secret"
+#~ msgstr "Geheimnis wiederholen"
+
+#~ msgid "Edit maintenance"
+#~ msgstr "Wartung bearbeiten"
+
+#~ msgid "Fitalicious"
+#~ msgstr "Fitalicious"
+
+#, fuzzy
+#~ msgid "Musclesling"
+#~ msgstr "Muskel"
+
+#~ msgid "My cubes"
+#~ msgstr "Meine Cubes"
+
+#~ msgid "Cubes"
+#~ msgstr "Cubes"
+
+#~ msgid "Devices"
+#~ msgstr "Ger&auml;te"
+
+#~ msgid "History"
+#~ msgstr "Verlauf"
+
+#~ msgid "Cube"
+#~ msgstr "Cube"
+
+#~ msgid "Firmware"
+#~ msgstr "Firmware"
+
+#~ msgid "Proxy"
+#~ msgstr "Proxy"
+
+#~ msgid "Device type"
+#~ msgstr "Ger&auml;tetyp"
+
+#~ msgid "State type"
+#~ msgstr "Statustyp"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Premium"
+#~ msgstr "Premium"
+
+#~ msgid "Display"
+#~ msgstr "Bildschirm"
+
+#~ msgid "Online"
+#~ msgstr "Online"
+
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+#~ msgid "UUID"
+#~ msgstr "UUID"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Default proxy cannot be deleted"
+#~ msgstr "Der Standardproxy kann nicht gelöscht werden"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Cube port"
+#~ msgstr "Cube Port"
+
+#~ msgid "Client port"
+#~ msgstr "Client Port"
+
+#~ msgid "File Upload"
+#~ msgstr "Datei"
+
+#~ msgid "Download"
+#~ msgstr "Herunterladen"
+
+#~ msgid "You can only use this action from a console!"
+#~ msgstr "Diese Aktion kann nur auf der Konsole durchgeführt werden"
+
+#~ msgid "News"
+#~ msgstr "Neuigkeiten"
+
+#~ msgid "Informations"
+#~ msgstr "Informationen"
+
+#~ msgid "Rescue services"
+#~ msgstr "Rettungsdienst"
+
+#~ msgid "Open shifts"
+#~ msgstr "Offene Dienste"
+
+#~ msgid "Structure"
+#~ msgstr "Struktur"
+
+#~ msgid "Ambulance services"
+#~ msgstr "Ambulanzdienste"
+
+#~ msgid "Shift accounting"
+#~ msgstr "Dienstabrechnung"
+
+#~ msgid "Fixed shifts"
+#~ msgstr "Fixdienste"
+
+#~ msgid "Courses"
+#~ msgstr "Kurse"
+
+#~ msgid "Defects"
+#~ msgstr "Mängel"
+
+#~ msgid "Coupon McD"
+#~ msgstr "Gutschein McD"
+
+#~ msgid "External trainer"
+#~ msgstr "Externe Vortragende"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "MPG"
+#~ msgstr "MPG"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
+
+#, fuzzy
+#~ msgid "Abrechnung edited"
+#~ msgstr "Einstellungen bearbeitet"
+
+#, fuzzy
+#~ msgid "Entry accepted"
+#~ msgstr "Eintrag erstellt"
+
+#, fuzzy
+#~ msgid "Entry was not accepted"
+#~ msgstr "Eintrag wurde nicht erstellt"
+
+#~ msgid "Entry not changed"
+#~ msgstr "Eintrag nicht ge&auml;ndert"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Sign in not successful"
+#~ msgstr "Anmeldung nicht erfolgreich"
+
+#~ msgid "Defect created"
+#~ msgstr "Mangel erstellt"
+
+#~ msgid "Defect was not created"
+#~ msgstr "Mangel wurde nicht erstellt"
+
+#~ msgid "Defect not found"
+#~ msgstr "Mangel nicht gefunden"
+
+#~ msgid "Defect comment added"
+#~ msgstr "Mangel-Kommentar hinzugefügt"
+
+#~ msgid "Defect comment was not added"
+#~ msgstr "Mangel-Kommentar wurde nicht hinzugefügt"
+
+#~ msgid "Study"
+#~ msgstr "Studie"
+
+#, fuzzy
+#~ msgid "Studies"
+#~ msgstr "Sites"
+
+#~ msgid "Hours"
+#~ msgstr "Stunden"
+
+#, fuzzy
+#~ msgid "Meeting"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Begin"
+#~ msgstr "Beginn"
+
+#~ msgid "End"
+#~ msgstr "Ende"
+
+#~ msgid "Billable"
+#~ msgstr "Verrechenbar"
+
+#~ msgid "RPS"
+#~ msgstr "RPS"
+
+#~ msgid "Manufacturer"
+#~ msgstr "Hersteller"
+
+#~ msgid "Model"
+#~ msgstr "Modell"
+
+#~ msgid "LVDB-ID"
+#~ msgstr "LVDB-ID"
+
+#~ msgid "Max. attendees"
+#~ msgstr "Max. Teilnehmer"
+
+#~ msgid "Trainer"
+#~ msgstr "Vortragender"
+
+#~ msgid "Mail"
+#~ msgstr "Mail"
+
+#~ msgid "In progress"
+#~ msgstr "In Bearbeitung"
+
+#~ msgid "Done"
+#~ msgstr "Erledigt"
+
+#~ msgid "EA-Shift accounting"
+#~ msgstr "EA-Dienst Verrechnung"
+
+#~ msgid "Amb-Service accounting"
+#~ msgstr "Ambulanzdienst Verrechnung"
+
+#~ msgid "Preferred shifts"
+#~ msgstr "Bevorzugte Dienste"
+
+#~ msgid "Brunn"
+#~ msgstr "Brunn"
+
+#~ msgid "Breitenfurt"
+#~ msgstr "Breitenfurt"
+
+#~ msgid "V&ouml;sendorf"
+#~ msgstr "V&ouml;sendorf"
+
+#~ msgid "Driver"
+#~ msgstr "Fahrer"
+
+#~ msgid "Medic 2"
+#~ msgstr "Sani 2"
+
+#~ msgid "article"
+#~ msgstr "Artikel"
+
+#~ msgid "defect"
+#~ msgstr "Mangel"
+
+#~ msgid "course"
+#~ msgstr "Kurs"
+
+#~ msgid "task(s) open"
+#~ msgstr "Aufgabe(n) offen"
+
+#~ msgid "Add accounting"
+#~ msgstr "Abrechnung hinzufügen"
+
+#~ msgid "Edit accounting"
+#~ msgstr "Dienstabrechnung bearbeiten"
+
+#~ msgid "In the year %d currently charged: &euro; %4.2f (Limit: &euro; %4.2f)"
+#~ msgstr "In dem Jahr %d bisher ausbezahlt: &euro; %4.2f (Limit: &euro; %4.2f)"
+
+#, fuzzy
+#~ msgid "Exports"
+#~ msgstr "Exporte"
+
+#, fuzzy
+#~ msgid "Accountings %s"
+#~ msgstr "Abrechnung"
+
+#~ msgid "Edit ambulance service"
+#~ msgstr "Ambulanzdienst bearbeiten"
+
+#~ msgid "Attendees"
+#~ msgstr "Teilnehmer"
+
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
+
+#, fuzzy
+#~ msgid "Qualification"
+#~ msgstr "Benachrichtigungen"
+
+#~ msgid "Employee"
+#~ msgstr "Mitarbeiter"
+
+#~ msgid "Add course"
+#~ msgstr "Kurs anlegen"
+
+#~ msgid "Add course category"
+#~ msgstr "Kurskategorie anlegen"
+
+#~ msgid "Attendee"
+#~ msgstr "Teilnehmer"
+
+#~ msgid "Delete course attendee"
+#~ msgstr "Kursteilnehmer löschen"
+
+#~ msgid "Do you really want to delete course attendee &quot;%s&quot;?"
+#~ msgstr "Wollen Sie wirklich den Kursteilnehmer &quot;%s&quoat; l&oumlschen?"
+
+#~ msgid "Course"
+#~ msgstr "Kurse"
+
+#~ msgid "ATT"
+#~ msgstr "TN"
+
+#~ msgid "Delete course"
+#~ msgstr "Kurs l&ouml;schen"
+
+#~ msgid "Do you really want to delete course &quot;%s&quot;?"
+#~ msgstr "Wollen Sie wirklich den Kurs &quot;%s&quoat; l&oumlschen?"
+
+#~ msgid "Edit course"
+#~ msgstr "Kurs bearbeiten"
+
+#~ msgid "Edit course category"
+#~ msgstr "Kurskategorie bearbeiten"
+
+#~ msgid "Do you really want to delete category &quot;%s&quot;?"
+#~ msgstr "Wollen Sie wirklich die Kurskategorie &quot;%s&quoat; l&oumlschen?"
+
+#~ msgid "Send mail"
+#~ msgstr "Email senden"
+
+#~ msgid "Add car"
+#~ msgstr "Fahrzeug anlegen"
+
+#~ msgid "Add device"
+#~ msgstr "Ger&auml;t anlegen"
+
+#~ msgid "Cars"
+#~ msgstr "Fahrzeuge"
+
+#~ msgid "User assignment"
+#~ msgstr "Benutzerzuweisung"
+
+#~ msgid "Edit car"
+#~ msgstr "Fahrzeug bearbeiten"
+
+#~ msgid "Edit device"
+#~ msgstr "Ger&auml;t bearbeiten"
+
+#~ msgid "Edit user assignment"
+#~ msgstr "Benutzerzuweisung bearbeiten"
+
+#~ msgid "Delete device"
+#~ msgstr "Ger&auml;t l&ouml;schen"
+
+#~ msgid "Do you really want to delete device &quot;%s&quot;?"
+#~ msgstr "Wollen Sie wirklich das Ger&auml;t &quot;%s&quoat; l&oumlschen?"
+
+#, fuzzy
+#~ msgid "Add trainer"
+#~ msgstr "Vortragenden bearbeiten"
+
+#~ msgid "Edit trainer"
+#~ msgstr "Vortragenden bearbeiten"
+
+#~ msgid "Do you really want to delete trainer &quot;%s&quot;?"
+#~ msgstr "Wollen Sie wirklich den Vortragenden &quot;%s&quoat; l&oumlschen?"
+
+#~ msgid "Place"
+#~ msgstr "Platz"
+
+#~ msgid "estimated end"
+#~ msgstr "voraussichtliches Ende"
+
+#~ msgid "Acc."
+#~ msgstr "Ver."
+
+#, fuzzy
+#~ msgid "Sign in for ambulance service"
+#~ msgstr "Ambulanzdienst"
+
+#~ msgid "On hold"
+#~ msgstr "Warteliste"
+
+#~ msgid "Sign in for course"
+#~ msgstr "Anmeldung zum Kurs"
+
+#~ msgid "Add defect"
+#~ msgstr "Mangel hinzufügen"
+
+#~ msgid "Comment defect"
+#~ msgstr "Mangel kommentieren"
+
+#~ msgid "Add comment"
+#~ msgstr "Kommentar hinzufügen"
+
+#~ msgid "Next shifts"
+#~ msgstr "Nächste Dienste"
+
+#~ msgid "Next appointments"
+#~ msgstr "Nächste Termine"
+
+#~ msgid "Currently on duty"
+#~ msgstr "Aktuell im Dienst"
+
+#, fuzzy
+#~ msgid "Typ"
+#~ msgstr "Typ"
+
+#, fuzzy
+#~ msgid "Car"
+#~ msgstr "Fahrzeuge"
+
+#, fuzzy
+#~ msgid "Change"
+#~ msgstr "Status"
+
+#~ msgid "Size"
+#~ msgstr "Gr&ouml;&szlig;e"
+
+#~ msgid "Edit fixed shift"
+#~ msgstr "Fixdienst bearbeiten"
+
+#~ msgid "Shift"
+#~ msgstr "Dienst"
+
+#~ msgid "D/N"
+#~ msgstr "T/N"
+
+#~ msgid "Diagram"
+#~ msgstr "Diagramm"
+
+#~ msgid "To top"
+#~ msgstr "Nach oben"
+
+#~ msgid "Accounting"
+#~ msgstr "Abrechnung"
+
+#, fuzzy
+#~ msgid "Abrechnung was not created"
+#~ msgstr "Eintrag wurde nicht erstellt"
+
+#, fuzzy
+#~ msgid "Abrechnung not found"
+#~ msgstr "Eintrag nicht gefunden"
+
+#, fuzzy
+#~ msgid "Abrechnung was not edited"
+#~ msgstr "Eintrag wurde nicht bearbeitet"
+
+#~ msgid "View log"
+#~ msgstr "Log anzeigen"
+
+#, fuzzy
+#~ msgid "Notification administration"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "List of staff persons"
+#~ msgstr "Liste von Personen"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Reset"
+#~ msgstr "Zurücksetzen"
+
+#~ msgid "%s day ago (%s)"
+#~ msgstr "%s Tag zurück (%s)"
+
+#~ msgid "%s days ago (%s)"
+#~ msgstr "%s Tage zurück (%s)"
+
+#~ msgid "%s month ago (%s)"
+#~ msgstr "%s Monat zurück (%s)"
+
+#~ msgid "%s months ago (%s)"
+#~ msgstr "%s Monate zurück (%s)"
+
+#~ msgid "Upload not possible! Please download a new browser or install Adobe Flash or Microsoft Silverlight"
+#~ msgstr "Hochladen nicht möglich! Bitte laden Sie einen neuen Browser herunter oder installieren Sie Adobe Flash oder Microsoft Silverlight"
+
+#~ msgid "Tickets"
+#~ msgstr "Tickets"
+
+#~ msgid "Ticket administration list"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "Ticketflags"
+#~ msgstr "Tickets"
+
+#~ msgid "Sites"
+#~ msgstr "Sites"
+
+#, fuzzy
+#~ msgid "User admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "List of users"
+#~ msgstr "Liste von Personen"
+
+#~ msgid "Site admin"
+#~ msgstr "Site Admin"
+
+#~ msgid "Site administration list"
+#~ msgstr "Liste zur Siteadministration"
+
+#, fuzzy
+#~ msgid "Ticketflag admin"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "Ticketflag administration"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "study"
+#~ msgstr "Studie"
+
+#~ msgid "no filter"
+#~ msgstr "kein Filter"
+
+#, fuzzy
+#~ msgid "reader"
+#~ msgstr "Reader"
+
+#, fuzzy
+#~ msgid "Console model"
+#~ msgstr "Site Admin"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "CRA Admin"
+#~ msgstr "Administration"
+
+#~ msgid "Home"
+#~ msgstr "Startseite"
+
+#, fuzzy
+#~ msgid "Requested Users"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Ticket Admin"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "Ticket Administration"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "Cert. Ticket Admin"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "Certification Ticket Administration"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "My Tickets"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Ticket Flags"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Cert. Process"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Certification Processes"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "CRA Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Downloader Admin"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Downloader Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "User Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "User Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Requ. Users."
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Users requested by CRAs"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Missing Certifications"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Site Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "Study Site Administration"
+#~ msgstr "Liste zur Siteadministration"
+
+#, fuzzy
+#~ msgid "Console Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "Console Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Compose Email"
+#~ msgstr "Email"
+
+#, fuzzy
+#~ msgid "Confirm Emails"
+#~ msgstr "Email"
+
+#, fuzzy
+#~ msgid "Staff Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "Staff Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Console Mod. Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "Console Model Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Study Setup"
+#~ msgstr "Sites"
+
+#, fuzzy
+#~ msgid "Study Admin"
+#~ msgstr "Site Admin"
+
+#, fuzzy
+#~ msgid "Study Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Upload Notifications"
+#~ msgstr "Benachrichtigungen"
+
+#, fuzzy
+#~ msgid "Additional Readings"
+#~ msgstr "Zusätzliche Information"
+
+#, fuzzy
+#~ msgid "Ticket Change Log"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "Task Settings"
+#~ msgstr "Einstellungen"
+
+#, fuzzy
+#~ msgid "Email Text Validation"
+#~ msgstr "Gültig bis"
+
+#, fuzzy
+#~ msgid "My Certifications"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Req. Certifications"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Requested Certifications"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Console Overview"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "Reader levels"
+#~ msgstr "Reader"
+
+#, fuzzy
+#~ msgid "Acquisition modes"
+#~ msgstr "Aktivierungscodes"
+
+#, fuzzy
+#~ msgid "Certification templates"
+#~ msgstr "Export Vorlagen"
+
+#~ msgid "Examination method"
+#~ msgstr "Untersuchungsmethode"
+
+#, fuzzy
+#~ msgid "Sponsor admin"
+#~ msgstr "Site Admin"
+
+#~ msgid "Namecode"
+#~ msgstr "Namenscode"
+
+#, fuzzy
+#~ msgid "Nr. uploads"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "Name of uploads"
+#~ msgstr "Upload"
+
+#~ msgid "city"
+#~ msgstr "Stadt"
+
+#, fuzzy
+#~ msgid "First run"
+#~ msgstr "Vorname"
+
+#, fuzzy
+#~ msgid "Last update"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Cert. template"
+#~ msgstr "Export Vorlagen"
+
+#~ msgid "included cert."
+#~ msgstr "Inkludierte Zertifizierungen"
+
+#~ msgid "Upload date"
+#~ msgstr "Upload Datum"
+
+#~ msgid "Files"
+#~ msgstr "Dateien"
+
+#~ msgid "Assignments"
+#~ msgstr "Zuweisungen"
+
+#~ msgid "file(s)"
+#~ msgstr "Datei(en)"
+
+#, fuzzy
+#~ msgid "Ticket"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Accept errors"
+#~ msgstr "Eintrag löschen"
+
+#, fuzzy
+#~ msgid "View tasks"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Move ticket"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Task deleted"
+#~ msgstr "löschen"
+
+#, fuzzy
+#~ msgid "Task was not deleted"
+#~ msgstr "Eintrag wurde nicht gelöscht"
+
+#, fuzzy
+#~ msgid "Person"
+#~ msgstr "Personen"
+
+#, fuzzy
+#~ msgid "Ticketnumber"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Host"
+#~ msgstr "Nachname"
+
+#, fuzzy
+#~ msgid "Study eye"
+#~ msgstr "Studie"
+
+#, fuzzy
+#~ msgid "Registration date"
+#~ msgstr "Erstellen"
+
+#, fuzzy
+#~ msgid "requested new user"
+#~ msgstr "Angeforderte Lizenzen"
+
+#, fuzzy
+#~ msgid "ticket assign stat"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "password reset"
+#~ msgstr "Passwort"
+
+#, fuzzy
+#~ msgid "Cert Template"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Closed Date"
+#~ msgstr "Schließen"
+
+#, fuzzy
+#~ msgid "New State"
+#~ msgstr "Status"
+
+#, fuzzy
+#~ msgid "Aquisition Mode"
+#~ msgstr "Aktivierungscode"
+
+#, fuzzy
+#~ msgid "Uploads"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "Person I D"
+#~ msgstr "Personen"
+
+#, fuzzy
+#~ msgid "Acquisition Modes"
+#~ msgstr "Aktivierungscodes"
+
+#, fuzzy
+#~ msgid "Nr Of Uploads"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "Upload Number"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Additional Device"
+#~ msgstr "Zusätzliche Information"
+
+#~ msgid "Language"
+#~ msgstr "Sprache"
+
+#, fuzzy
+#~ msgid "Notify Person"
+#~ msgstr "Personen"
+
+#, fuzzy
+#~ msgid "Site I D"
+#~ msgstr "Sites"
+
+#, fuzzy
+#~ msgid "Export Schedule"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "File Name"
+#~ msgstr "Name"
+
+#, fuzzy
+#~ msgid "File Size"
+#~ msgstr "Datei"
+
+#, fuzzy
+#~ msgid "Hashcode"
+#~ msgstr "Namenscode"
+
+#, fuzzy
+#~ msgid "Export File Name"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Export Start Template"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Export Header End Template"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Ticket End Template"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Export End Template"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Export Name"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Export Od"
+#~ msgstr "Exporte"
+
+#, fuzzy
+#~ msgid "Ticket Postfix"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Request Parameter"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Message I D"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "P I Email"
+#~ msgstr "Email"
+
+#, fuzzy
+#~ msgid "Birth Date"
+#~ msgstr "Geburtsdatum"
+
+#, fuzzy
+#~ msgid "Ticket Comment"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "Hostname"
+#~ msgstr "Nachname"
+
+#, fuzzy
+#~ msgid "Lang"
+#~ msgstr "Sprache"
+
+#, fuzzy
+#~ msgid "Last Login"
+#~ msgstr "Login"
+
+#, fuzzy
+#~ msgid "Cc Email"
+#~ msgstr "Email"
+
+#~ msgid "Points"
+#~ msgstr "Punkte"
+
+#, fuzzy
+#~ msgid "Requested By C R A"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Request Date"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Requested User"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Existing User"
+#~ msgstr "Einstellungen bearbeiten"
+
+#, fuzzy
+#~ msgid "Request User I D"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Namecodes"
+#~ msgstr "Namenscode"
+
+#, fuzzy
+#~ msgid "Vrc Name Code"
+#~ msgstr "Namenscode"
+
+#, fuzzy
+#~ msgid "Postcode"
+#~ msgstr "PLZ"
+
+#, fuzzy
+#~ msgid "Timespan"
+#~ msgstr "Zeitzone"
+
+#, fuzzy
+#~ msgid "Number Tickets"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Closed"
+#~ msgstr "Schließen"
+
+#, fuzzy
+#~ msgid "Upload Checks"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Upload Edit Days"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "First Run"
+#~ msgstr "Vorname"
+
+#, fuzzy
+#~ msgid "Upload Check"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Created"
+#~ msgstr "Erstellen"
+
+#, fuzzy
+#~ msgid "Message Key"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "Uploader"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "Sub Tickets"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Ticket Number"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Upload Date"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Ticket Base Path"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Task State"
+#~ msgstr "Status"
+
+#, fuzzy
+#~ msgid "Abort Message"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "Host Name"
+#~ msgstr "Name"
+
+#, fuzzy
+#~ msgid "Sub State"
+#~ msgstr "Status"
+
+#, fuzzy
+#~ msgid "Ticket Task"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "Acquisition Mode"
+#~ msgstr "Aktivierungscode"
+
+#, fuzzy
+#~ msgid "Required"
+#~ msgstr "Angefordert"
+
+#, fuzzy
+#~ msgid "Visit Number"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Upload Rel Start"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Upload Rel Warn"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Upload Rel End"
+#~ msgstr "Upload Datum"
+
+#, fuzzy
+#~ msgid "Entries"
+#~ msgstr "Eintrag"
+
+#, fuzzy
+#~ msgid "Entry Count"
+#~ msgstr "Eintrag"
+
+#, fuzzy
+#~ msgid "Message Override"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "uploader"
+#~ msgstr "Upload"
+
+#, fuzzy
+#~ msgid "ticket"
+#~ msgstr "Tickets"
+
+#, fuzzy
+#~ msgid "requested"
+#~ msgstr "Angefordert"
+
+#~ msgid "valid"
+#~ msgstr "gültig"
+
+#, fuzzy
+#~ msgid "valid recert"
+#~ msgstr "gültig von"
+
+#, fuzzy
+#~ msgid "created"
+#~ msgstr "Erstellen"
+
+#, fuzzy
+#~ msgid "remove file"
+#~ msgstr "kein Filter"
+
+#, fuzzy
+#~ msgid "edited"
+#~ msgstr "bearbeiten"
+
+#, fuzzy
+#~ msgid "revoked error acception"
+#~ msgstr "Vorherige Ausnahme"
+
+#, fuzzy
+#~ msgid "deleted error"
+#~ msgstr "Eintrag löschen"
+
+#, fuzzy
+#~ msgid "deleted task"
+#~ msgstr "löschen"
+
+#~ msgid "Delete task result"
+#~ msgstr "Task Ergebnis löschen"
+
+#, fuzzy
+#~ msgid "Sub state"
+#~ msgstr "Status"
+
+#~ msgid "Delete task results for %s?"
+#~ msgstr "Task Ergebnisse von %s löschen?"
+
+#, fuzzy
+#~ msgid "Visit date"
+#~ msgstr "Ticketnummer"
+
+#, fuzzy
+#~ msgid "Aborted"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "Finished tasks"
+#~ msgstr "Tickets"
+
+#~ msgid "Welcome to %sZend Framework 2%s"
+#~ msgstr "Willkommen zu dem %sZend Framework 2%s"
+
+#~ msgid "Congratulations! You have successfully installed the %sZF2 Skeleton Application%s. You are currently running Zend Framework version %s. This skeleton can serve as a simple starting point for you to begin building your application on ZF2."
+#~ msgstr "Herzlichen Glückwunsch! Sie haben die %sZF2 Skeleton Application%s erfolgreich installiert und benutzen gerade die Version %s des Zend Frameworks. Dieses Gerüst kann Ihnen als Einstiegspunkt, für Ihre weitere Entwicklung, basierend auf dem Zend Framework 2, dienen."
+
+#~ msgid "Fork Zend Framework 2 on GitHub"
+#~ msgstr "Fork Zend Framework 2 auf GitHub"
+
+#~ msgid "Follow Development"
+#~ msgstr "Folge der Entwicklung"
+
+#~ msgid "Zend Framework 2 is under active development. If you are interested in following the development of ZF2, there is a special ZF2 portal on the official Zend Framework website which provides links to the ZF2 %swiki%s, %sdev blog%s, %sissue tracker%s, and much more. This is a great resource for staying up to date with the latest developments!"
+#~ msgstr "Das Zend Framework 2 wird z.Z. aktiv weiterentwickelt.  Sollten Sie daran interessiert sein, die Entwicklung von ZF2 zu verfolgen, so bietet Ihnen die offizielle Webseite einen eigens für das Zend Framework 2 eingerichteten Bereich, auf der Sie Verlinkungen zum ZF2 %sWiki%s, %sEntwickler Blog%s, einem %sFehlerverfolgungssystem%s und noch vielem mehr finden. Dieser Bereich ist eine hervorragende Quelle um stets aktuell zu bleiben."
+
+#~ msgid "ZF2 Development Portal"
+#~ msgstr "ZF2 Entwickler Portal"
+
+#~ msgid "Discover Modules"
+#~ msgstr "Entdecken Sie Module"
+
+#~ msgid "The community is working on developing a community site to serve as a repository and gallery for ZF2 modules. The project is available %son GitHub%s. The site is currently live and currently contains a list of some of the modules already available for ZF2."
+#~ msgstr "Die Community arbeitet momentan an einer Community Seite, welche als Galerie für ZF2 Module dient. Dieses Projekt ist %sauf GitHub%s verfügbar. Die Webseite ist bereits Online und enthält eine Liste mit schon veröffentlichten Modulen für das Zend Framework 2."
+
+#~ msgid "Explore ZF2 Modules"
+#~ msgstr "Erkunden Sie ZF2 Module"
+
+#~ msgid "Help &amp; Support"
+#~ msgstr "Hilfe &amp; Support"
+
+#~ msgid "If you need any help or support while developing with ZF2, you may reach us via IRC: %s#zftalk on Freenode%s. We'd love to hear any questions or feedback you may have regarding the beta releases. Alternatively, you may subscribe and post questions to the %smailing lists%s."
+#~ msgstr "Sollten Sie Hilfe jeglicher Art bei der Entwicklung mit dem Zend Framework 2 benötigen, kontaktieren Sie uns doch einfach über das IRC: %s#zftalk on Freenode%s. Wir freuen uns darauf, Ihnen bei Ihren Fragen zu helfen oder aber auch Ihre Meinung bezüglich der Beta Versionen zu hören. Alternativ können Sie auch die %smailing lists%s abonnieren und Ihre Fragen dort stellen."
+
+#~ msgid "Ping us on IRC"
+#~ msgstr "Schreiben Sie uns im IRC an"
+
+#~ msgid "All rights reserved"
+#~ msgstr "Alle Rechte vorbehalten"
+
+#~ msgid "all times displayed in GMT"
+#~ msgstr "alle Zeiten in GMT"
+
+#~ msgid "VRCTS"
+#~ msgstr "VRCTS"
+
+#, fuzzy
+#~ msgid "New ticket state"
+#~ msgstr "Ticket Admin"
+
+#, fuzzy
+#~ msgid "New error state"
+#~ msgstr "Status"
+
+#, fuzzy
+#~ msgid "Cert.Templ. Admin"
+#~ msgstr "Export Vorlagen"
+
+#, fuzzy
+#~ msgid "Certification Template Administration"
+#~ msgstr "Liste zur Ticketadministration"
+
+#, fuzzy
+#~ msgid "Sponsor Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "View Log"
+#~ msgstr "Log anzeigen"
+
+#, fuzzy
+#~ msgid "View Tasks"
+#~ msgstr "Tickets"
+
+#~ msgid "click to select"
+#~ msgstr "Zum Auswählen klicken"
+
+#, fuzzy
+#~ msgid "Message Admin"
+#~ msgstr "Meldung"
+
+#, fuzzy
+#~ msgid "Message Administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "ed"
+#~ msgstr "bearbeiten"
+
+#~ msgid "priority"
+#~ msgstr "Priorität"
+
+#~ msgid "from"
+#~ msgstr "von"
+
+#~ msgid "to"
+#~ msgstr "bis"
+
+#, fuzzy
+#~ msgid "administration"
+#~ msgstr "Administration"
+
+#, fuzzy
+#~ msgid "Acquisition Mode Administration"
+#~ msgstr "Aktivierungscodes"
+
+#~ msgid "minimum priority"
+#~ msgstr "Minimum Priorität"
+
+#~ msgid "title"
+#~ msgstr "Titel"
+
+#~ msgid "firstname"
+#~ msgstr "Vorname"
+
+#~ msgid "lastname"
+#~ msgstr "Nachname"
+
+#~ msgid "name"
+#~ msgstr "Name"
+
+#~ msgid "namecode"
+#~ msgstr "Namenscode"
+
+#~ msgid "street"
+#~ msgstr "Straße"
+
+#~ msgid "post code"
+#~ msgstr "PLZ"
+
+#~ msgid "timestamp"
+#~ msgstr "Uhrzeit"
+
+#~ msgid "message"
+#~ msgstr "Meldung"
+
+#~ msgid "user"
+#~ msgstr "Benutzer"
+
+#~ msgid "Licenses"
+#~ msgstr "Lizenzen"
+
+#~ msgid "Manage Octavo licenses"
+#~ msgstr "Octavo Lizenzen verwalten"
+
+#~ msgid "License key"
+#~ msgstr "Lizenzschlüssel"
+
+#~ msgid "Unlimited"
+#~ msgstr "Unlimitiert"
+
+#, fuzzy
+#~ msgid "view history"
+#~ msgstr "History anzeigen"
+
+#~ msgid "unlimited"
+#~ msgstr "unlimitiert"
+
+#~ msgid "Octavo License Manager"
+#~ msgstr "Octavo Lizenzmanager"
+
+#~ msgid "there are %s%d%s requested licenses."
+#~ msgstr "Es gibt %s%d%s angeforderte Lizenzen"
+
+#~ msgid "license key"
+#~ msgstr "Lizenzschlüssel"
+
+#~ msgid "Skeleton Application"
+#~ msgstr "Skeleton Application"

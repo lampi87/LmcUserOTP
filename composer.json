@@ -1,0 +1,27 @@
+{
+    "name": "lm-commons/lmc-user-otp",
+    "description": "LmcUserOtp Login for LM-Commons/LmcUser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexander Lampret",
+            "email": "alexander.lampret@gmail.com"
+        }
+    ],
+    "require": {
+        "lm-commons/lmc-user": "^3.1",
+        "sonata-project/google-authenticator": "*"
+    },
+    "require-dev": {
+        "laminas/laminas-developer-tools": "*",
+        "laminas/laminas-development-mode": "^3.0",
+        "laminas/laminas-test": "*",
+        "squizlabs/php_codesniffer": "*",
+        "vimeo/psalm": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LmcUserOtp\\": "src/"
+        }
+    }
+}
